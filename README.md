@@ -13,7 +13,3 @@ A basic to-do list application built using Python and the tkinter library for cr
 2. Make sure you have Python and the tkinter library installed.
 3. Run the script (e.g., 'python todo_list.py') to launch the to-do list application.
 4. Add tasks, remove selected tasks, and manage your to-do list effortlessly.
-
-Feel free to customize and enhance the application according to your needs. It serves as a great introduction to GUI programming with Python using the tkinter library.
-
-Author: Ryan Huber
